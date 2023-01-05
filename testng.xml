@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+    <suite name="All Test Suite">
+        <test verbose="2" preserve-order="true" name="RestAssured API Testing BDD">
+            <classes>
+                <class name="putRequests"></class>
+                <class name="getRequests"></class>
+                <class name="postRequests"></class>
+                <class name="deleteRequests"></class>
+            </classes>
+        </test>
+</suite>
