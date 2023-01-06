@@ -7,6 +7,7 @@
                 <class name="getRequests"></class>
                 <class name="postRequests"></class>
                 <class name="deleteRequests"></class>
+                <class name="xmlResponse"></class>
             </classes>
         </test>
 </suite>
